@@ -14,7 +14,7 @@ Furthermore, the system introduces a precise and data-driven approach to meal pl
 
 ### Landing Page
 
-Anyone can visit the website by typing ‘www.ruetdining.web.app’ and he will be redirected to the landing page provided below. From there he can select the ‘Order Now’ button to be redirected to the Log In page.
+Anyone can visit the website by typing ‘https://ruetdining.web.app/’ and he will be redirected to the landing page provided below. From there he can select the ‘Order Now’ button to be redirected to the Log In page.
 
 ### Log In and Sign-Up Page
 
