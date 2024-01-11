@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The RUET Dining Management System is a comprehensive and efficient web-based platform designed to streamline and enhance the dining experience for the entire Rajshahi University of Engineering & Technology (RUET) community. This system is intended to address the challenges faced by students, faculty, and staff in managing their dining needs, ensuring a seamless and convenient process for meal planning, ordering, and serving.
+The RUET Dining Management System is a comprehensive and efficient web-based platform designed to streamline and enhance the dining experience for the entire Rajshahi University of Engineering & Technology (RUET) community. This system is intended to address the challenges faced by students, faculty, and staff in managing their dining needs, ensuring a seamless and convenient process for meal planning, ordering, and serving. Click this link to see short video about how it works ‘https://youtu.be/B4VLd9eW_Q8’
 
 ## Dining Management System of RUET
 
